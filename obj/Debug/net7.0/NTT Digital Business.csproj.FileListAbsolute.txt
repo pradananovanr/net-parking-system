@@ -1,0 +1,15 @@
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\bin\Debug\net7.0\NTT Digital Business.exe
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\bin\Debug\net7.0\NTT Digital Business.deps.json
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\bin\Debug\net7.0\NTT Digital Business.runtimeconfig.json
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\bin\Debug\net7.0\NTT Digital Business.dll
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\bin\Debug\net7.0\NTT Digital Business.pdb
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\NTT Digital Business.csproj.AssemblyReference.cache
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\NTT Digital Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\NTT Digital Business.AssemblyInfoInputs.cache
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\NTT Digital Business.AssemblyInfo.cs
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\NTT Digital Business.csproj.CoreCompileInputs.cache
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\NTT Digital Business.dll
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\refint\NTT Digital Business.dll
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\NTT Digital Business.pdb
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\NTT Digital Business.genruntimeconfig.cache
+D:\000. PAPA's DOC\ENIGMA\Job Connector\NTT Digital Business\obj\Debug\net7.0\ref\NTT Digital Business.dll
