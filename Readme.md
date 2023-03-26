@@ -1,5 +1,5 @@
 # PARKING SYSTEM
-Simple parking system using .NET 5 without UI (console). Every parking slot can only accomodate one car or one motorcyle
+Simple parking system using .NET without UI (console). Every parking slot can only accomodate one car or one motorcyle
 ***
 
 ## COMMAND
